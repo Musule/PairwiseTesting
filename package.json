@@ -1,0 +1,38 @@
+{
+  "name": "pairwisetesting",
+  "version": "1.0.0",
+  "description": "Pairwise Test Case",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Musule/PairwiseTesting.git"
+  },
+  "keywords": [
+    "pairwise",
+    "test",
+    "case"
+  ],
+  "author": "liyinchi@qq.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Musule/PairwiseTesting/issues"
+  },
+  "homepage": "https://github.com/Musule/PairwiseTesting#readme",
+  "dependencies": {
+    "chalk": "^4.0.0",
+    "covertable": "^1.1.2",
+    "csv-stringify": "^5.5.0",
+    "data-to-json": "^1.0.5",
+    "exceljs": "^3.9.0",
+    "fs": "0.0.1-security",
+    "js2xmlparser": "^4.0.1",
+    "mocha": "^7.2.0",
+    "node-xlsx": "^0.15.0",
+    "nodemon": "^2.0.4",
+    "stringify-object": "^3.3.0",
+    "xml-js": "^1.6.11"
+  }
+}
