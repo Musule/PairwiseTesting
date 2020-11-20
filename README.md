@@ -1,6 +1,10 @@
 
-成对测试 （PairwiseTesting）
-===========================
+# 成对测试 （PairwiseTesting）
+
+
+recommend: [China-Gitee](https://gitee.com/liyinchi/PairwiseTesting)，[Other-Github](https://github.com/Musule/PairwiseTesting)
+
+
 自动组合生成`测试用例场景`，帮助提升`用例测试覆盖率`！
 
 `PairwiseTesting`，又称 `结对测试、两两测试`，是一种正交分析的测试方法。
