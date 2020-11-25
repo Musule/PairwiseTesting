@@ -21,21 +21,22 @@ recommend: [China-Gitee](https://gitee.com/liyinchi/PairwiseTesting)，[Other-Gi
 # 示例
 ## 用例字段（枚举值）
 
-<img width="700" height="300" src="static/image/fields_enumerator.jpg"/>
+![img](https://gitee.com/liyinchi/PairwiseTesting/raw/master/static/image/fields_enumerator.jpg)
 
 ## 用例组合结果
-<img width="400" height="400" src="static/image/csv.jpg"/>
+![img](https://gitee.com/liyinchi/PairwiseTesting/raw/master/static/image/csv.jpg)
 
 
 # 使用
 ## 1.环境
 
 （1）Nodejs
+
 如果你电脑还未安装配置nodejs环境，请参考：https://www.runoob.com/nodejs/nodejs-install-setup.html
 
 下载Nodejs
 
->https://npm.taobao.org/mirrors/node/v0.12.13/
+>https://npm.taobao.org/mirrors/node/v12.13.0/
 
 （建议版本使用v12.13.0 小于v15.0）
 
@@ -52,7 +53,8 @@ npm install
 ## 2.使用
 
 ### （1）打开excel表 `fields_enumerator.xlsx`，写入你的用例字段、枚举值
-<img width="400" height="150" src="static/image/fields_enumerator_wirte.jpg"/>
+
+![img](https://gitee.com/liyinchi/PairwiseTesting/raw/master/static/image/fields_enumerator_wirte.jpg)
 
 
 
@@ -73,12 +75,12 @@ mocha
 
 >output文件夹下
 
-<img width="200" height="200" src="static/image/output.jpg"/>
+![img](https://gitee.com/liyinchi/PairwiseTesting/raw/master/static/image/output.jpg)
 
 
 #### csv
 
-<img width="400" height="400" src="static/image/csv.jpg"/>
+![img](https://gitee.com/liyinchi/PairwiseTesting/raw/master/static/image/csv.jpg)
 
 #### txt
 
@@ -121,11 +123,11 @@ mocha
 
 #### json
 
-<img width="400" height="250" src="static/image/json.jpg"/>
+![imghttps://gitee.com/liyinchi/PairwiseTesting/raw/master/static/image/json.jpg
 
 #### xml
 
-<img width="400" height="250" src="static/image/xml.jpg"/>
+![img](https://gitee.com/liyinchi/PairwiseTesting/raw/master/static/image/xml.jpg)
 
 
 #### 控制台
