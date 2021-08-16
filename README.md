@@ -123,7 +123,7 @@ mocha
 
 #### json
 
-![imghttps://gitee.com/liyinchi/PairwiseTesting/raw/master/static/image/json.jpg
+![img](https://gitee.com/liyinchi/PairwiseTesting/raw/master/static/image/json.jpg)
 
 #### xml
 
